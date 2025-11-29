@@ -8,7 +8,7 @@ const camera = new THREE.OrthographicCamera(-1, 1, 1, -1, 0, 1);
 const uniforms = {
   uTime: { value: 0 },
   uResolution: {
-    value: new value THREE.Vector2(window.innerWidth, window.innerHeight),
+    value: new value 2 THREE.Vector2(window.innerWidth, window.innerHeight),
   },
 };
 
